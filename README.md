@@ -7,6 +7,8 @@
 - Data Engineering : Google Cloud Platform, Docker, ML Flow, Heroku, Streamlit
 - Final project : Care for Health ([have a look at my repository!](https://github.com/AlbanKv/care_for_health))
 
+### Look at my full resume 🔭
+<a href="https://linkedin.com/in/alban-cavey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albancavey" height="30" width="40" /></a>
 <!--
 **AlbanKv/AlbanKv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
