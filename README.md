@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there! 👋
+### I've just graduated from Le Wagon Data Science Bootcamp. Here is what I've learnt:
+- Python for Data Sourcing, Data Analysis, Data Visualization (Web scraping, SQL, Numpy, Pandas, Matplotlib)
+- Decision science module working on a real case
+- Machine Learning : Scikit-learn - supervised and unsupervised learning
+- Deep Learning : Tensorflow and Keras - RNN, CNN, NLP
+- Data Engineering : Google Cloud Platform, Docker, ML Flow, Heroku, Streamlit
+- Final project : Care for Health ([have a look at my repository!](https://github.com/AlbanKv/care_for_health))
 
 <!--
 **AlbanKv/AlbanKv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
